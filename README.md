@@ -22,6 +22,8 @@
 
 - VSCode
 
+ <img src="./assets/python_logo.jpeg" width=35> &ensp; <img src="./assets/sklearn_logo.png" width=70> &ensp; <img src="./assets/jupyter_logo.png" width=30> &ensp; <img src="./assets/vscode_logo.jpeg" width=45>
+
 ## Prerequisites
 
 - Knowledge about pandas python and sklearn machine learning algorithms.
