@@ -16,7 +16,7 @@
 
 - Python libraries: Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Missingno
 
-- Sklearn algorithm: DecisionTreeClassifier
+- Scikit-learn algorithm: DecisionTreeClassifier
 
 - Jupyter notebook
 
