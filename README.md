@@ -1,7 +1,7 @@
   
 <img src="assets/readmeGIF.png">
 
-# Machine Learning_PI2_Colombian Real-State
+# Colombian Properties Prices (Machine Learning)
    The main goal of this project will be to put into practice the predicting tools and skills learned throughout **Henry's Machine Learning** phase Bootcamp.
 
   The project starts with two given datasets. The required task will be a single-column .csv file with predicts.
